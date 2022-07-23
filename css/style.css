@@ -24,6 +24,12 @@
     font-family: 'Roboto';
 }
 
+.bottom-list-text {
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 40px;
+}
+
 @media screen and (max-width: 580px) {
     .img {
         display: block;
